@@ -7,6 +7,7 @@ public class Three {
 
 
     private int github;
+    private String bbbbb;
 
 
 
